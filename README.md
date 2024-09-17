@@ -1,11 +1,28 @@
 # toilet_oracle
 ON TONIGHT'S EPISODE OF WILL IT FLUSH?! ... WILL IT FLUSH?!?
 
-Language: Urinos, "Skatos", "Cynthos", "Feathers", and "Anchors" 
+
+Operations: Void, Jettison, Panic
+
+Language :
+
+    Atomics: Toilets, Toilet Agents that Use Toilets, and Liquids
+    
+    Functions: Urinos, Skatos, Cynthos, Feathers, and Anchors 
+
+
+
 
 in ranked order of Hardness; Anchors are "computer just can't" axiomatically ie in Domain of Real Numbers whereas Urinos is just P
 
-Operations: Void, Jettison, Panic
+Urinos (P): The simplest level, where basic toilet functionality is simulated, and the sailor completes their task without additional constraints.
+Skatos (P + TP): Adds toilet paper constraints, but the system is still solvable within polynomial time.
+Cynthos (P + TP + Friend): Introduces more complexity by checking for friend preferences, adding further logic but still solvable.
+Feathers (P + TP + Friend + Weight): This level brings the problem closer to NP, where weight constraints can cause the toilet to reject users if they exceed the capacity.
+Anchors (Impossible): This level represents tasks that cannot be computed within any practical time frame, simulating impossible real-time problems.
+
+
+
 
   _
   Turn 1
