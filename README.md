@@ -1,5 +1,12 @@
 # toilet_oracle
 ON TONIGHT'S EPISODE OF WILL IT FLUSH?! ... WILL IT FLUSH?!?
+
+Language: Urinos, "Skatos", "Cynthos", "Feathers", and "Anchors" 
+
+in ranked order of Hardness; Anchors are "computer just can't" axiomatically ie in Domain of Real Numbers whereas Urinos is just P
+
+Operations: Void, Jettison, Panic
+
   _
   Turn 1
   
