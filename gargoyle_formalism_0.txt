@@ -1,0 +1,16 @@
+Thus, as we can see in Gargoyle Analytics:
+
+Gargoyles -- THEY SPRAY LIQUID
+
+Grotesques -- JUST STATUES, THESE ARE *NOT* GARGOYLES
+
+Computers -- a gargoyle
+Dice -- not a fountain, however, they are Math Mice, and therefore a type of rodent that does *not* act as a fountain 
+
+Thus, Dice are grotesques
+
+And we can say the four genders of gargoyle are:
+Gargoyles -- non-rodents, pee-ers
+Grotesques -- non-rodents, not pee-ers
+Computers -- rodents, pee-ers
+Dice -- rodents, not pee-ers
